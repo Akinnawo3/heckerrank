@@ -1,6 +1,7 @@
 // https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true
 function migratoryBirds(arr) {
     // Write your code here
+    // Write your code here
     let res = {}
     const sorted = arr.sort((a, b) => b - a)
     for (let i = 0; i < sorted.length; i++) {
