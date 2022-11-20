@@ -1,4 +1,4 @@
-// https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true
+https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true
 function migratoryBirds(arr) {
     // Write your code here
     // Write your code here
