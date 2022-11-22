@@ -1,4 +1,6 @@
 // hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true
+// hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true
+
 function cutTheSticks(arr) {
     let counts = []
     // Write your code here
